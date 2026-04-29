@@ -1,0 +1,31 @@
+id,tweet,topic,timestamp,score,label,subjectivity,polarity
+1,I absolutely love the new iPhone! Best purchase I've made all year 😍,Technology,2024-03-01 00:00:00,0.7542,Positive,0.692,0.754
+2,This traffic is absolutely terrible. Worst commute ever. #frustrated,Transport,2024-03-01 03:00:00,-1.0,Negative,1.0,-1.0
+3,"Just had an okay lunch. Nothing special, nothing bad.",Food,2024-03-01 06:00:00,0.5067,Positive,0.333,0.507
+4,The movie was absolutely breathtaking! 10/10 would recommend 🎬✨,Entertainment,2024-03-01 09:00:00,0.8,Positive,0.667,0.8
+5,Can't believe how awful the customer service was today. Never coming back.,Business,2024-03-01 12:00:00,0.11,Positive,0.5,0.11
+6,"The weather today is pretty average, not too hot not too cold.",Weather,2024-03-01 15:00:00,0.32,Positive,0.25,0.32
+7,So excited for the weekend! Road trip with friends 🚗🎉,Social,2024-03-01 18:00:00,0.5844,Positive,0.3,0.584
+8,Really disappointed with the product quality. Expected much better.,Business,2024-03-01 21:00:00,-1.0,Negative,0.333,-1.0
+9,The conference was informative. Learned a few new things.,Professional,2024-03-02 00:00:00,0.1667,Positive,0.333,0.167
+10,This is the happiest I've been in years! Life is wonderful 🌟,Personal,2024-03-02 03:00:00,0.7667,Positive,0.25,0.767
+11,"Terrible experience at the restaurant. Food was cold, service was slow.",Food,2024-03-02 06:00:00,-0.6,Negative,0.818,-0.6
+12,"The new software update is fine, does what it needs to do.",Technology,2024-03-02 09:00:00,0.1667,Positive,0.25,0.167
+13,Absolutely thrilled to announce my new job! Dreams do come true! 🙌,Professional,2024-03-02 12:00:00,0.7083,Positive,0.75,0.708
+14,Flight delayed again. Airport is a nightmare. So frustrating.,Transport,2024-03-02 15:00:00,-0.6833,Negative,0.667,-0.683
+15,The book was decent. Some parts were interesting.,Entertainment,2024-03-02 18:00:00,0.0,Neutral,0.0,0.0
+16,Best day ever spent at the beach! Pure bliss ☀️🌊,Personal,2024-03-02 21:00:00,0.6853,Positive,0.9,0.685
+17,Why do companies make returns so difficult? Completely unacceptable.,Business,2024-03-03 00:00:00,-0.8433,Negative,0.667,-0.843
+18,The presentation went okay. Could have been better.,Professional,2024-03-03 03:00:00,0.0,Neutral,0.0,0.0
+19,Just adopted a puppy! So much joy in my life right now 🐶❤️,Personal,2024-03-03 06:00:00,0.7778,Positive,0.231,0.778
+20,Terrible headache all day. Nothing is working.,Health,2024-03-03 09:00:00,-0.7667,Negative,0.857,-0.767
+21,The game last night was epic! Unbelievable comeback! 🏆,Sports,2024-03-03 12:00:00,0.7889,Positive,0.667,0.789
+22,Not sure how I feel about the new policy changes at work.,Professional,2024-03-03 15:00:00,0.1667,Positive,0.25,0.167
+23,Grateful for amazing friends who always have my back 💙,Social,2024-03-03 18:00:00,0.8,Positive,0.6,0.8
+24,The app keeps crashing. Worst user experience ever.,Technology,2024-03-03 21:00:00,-0.8,Negative,0.75,-0.8
+25,Had a neutral day. Just went through the motions.,Personal,2024-03-04 00:00:00,0.0,Neutral,0.0,0.0
+26,This coffee shop is my new favourite spot! Cozy vibes ☕,Food,2024-03-04 03:00:00,0.4917,Positive,0.818,0.492
+27,Politicians never listen to their constituents. Disgusting.,Politics,2024-03-04 06:00:00,-0.7167,Negative,0.857,-0.717
+28,The seminar was average - nothing I hadn't heard before.,Professional,2024-03-04 09:00:00,0.0,Neutral,0.0,0.0
+29,Finally finished my marathon! Pure joy and exhaustion 🏃,Sports,2024-03-04 12:00:00,0.4,Positive,1.0,0.4
+30,Raining again. My mood is as grey as the sky.,Weather,2024-03-04 15:00:00,-0.3333,Negative,0.6,-0.333
